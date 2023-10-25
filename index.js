@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
 
 // Rota 2
 app.get('/sobre', (req, res) => {
-  res.send('<h1>Sobre o 3djoe.com</h1>');
+  res.send('<h1>Sobre o 3djoe/h1>');
 });
 
 // Rota 3
